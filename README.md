@@ -42,3 +42,5 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
+## Base de datos
+![Diagrama de la base de datos](./readme-utils/db.png)
